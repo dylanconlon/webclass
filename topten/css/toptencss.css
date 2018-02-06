@@ -1,0 +1,14 @@
+p {
+	color: #0006CE;
+}
+h1{
+	color: #00B5F7;
+	border: 2px;
+	border-style: solid;
+}
+img {
+	width: 40%;
+	border: 3px;
+	border-style: solid;
+	border-color: blue;
+}
